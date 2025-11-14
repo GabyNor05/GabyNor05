@@ -1,4 +1,8 @@
+![Banner](./assets/profileBanner.png)
+
 # 👋 Hi, I’m Gaby Norris  
+
+---
 
 ## Creative Technologies — UX, Interaction Design & Full-Stack Development  
 Open Window Institute, South Africa  
@@ -41,7 +45,7 @@ My process is rooted in clarity, empathy, and purposeful design.
 
 [![Disney+ Finder](./assets/disney+Header.png)](https://github.com/GabyNor05/Formative-One-Disney_Finder)
 
-Psychedelic Pixels is an e-commerce platform dedicated to showcasing and selling unconventional, surreal, and imaginative artwork. The website offers a curated selection of unique paintings, sculptures, and other artistic creations that fall outside the mainstream. Its primary purpose is to give art lovers, collectors, and curious minds a place to discover and purchase "weird art" works that are bold, thought-provoking, and unlike anything found in traditional galleries. By connecting eccentric artists with an audience that appreciates the bizarre and the extraordinary, Psychedelic Pixels celebrates creativity in its most unusual forms.
+Disney+ Finder is a react app built using Disney Plus Top Movies and TV Shows API, which is an API that provides instant access to a curated list of metadata from a selection of popular titles from Disney+. Making it easier to find the best possible TV Shows and Movies.
 
 #### **Technologies Used:** 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -78,7 +82,11 @@ Psychedelic Pixels is an e-commerce platform dedicated to showcasing and selling
 
 [![Tutor Aid](./assets/tutorAidHeader.png)](https://github.com/GabyNor05/TutorAid)
 
-Psychedelic Pixels is an e-commerce platform dedicated to showcasing and selling unconventional, surreal, and imaginative artwork. The website offers a curated selection of unique paintings, sculptures, and other artistic creations that fall outside the mainstream. Its primary purpose is to give art lovers, collectors, and curious minds a place to discover and purchase "weird art" works that are bold, thought-provoking, and unlike anything found in traditional galleries. By connecting eccentric artists with an audience that appreciates the bizarre and the extraordinary, Psychedelic Pixels celebrates creativity in its most unusual forms.
+Tutor Aid is a platform designed to connect students with reliable and relatable tutors who understand their learning journey. The platform focuses on simplicity, trust, and efficiency, allowing students to easily find support, book sessions, and grow academically.
+
+As a tutor myself, I saw how difficult it can be to manage timetables, communicate with students, and present yourself professionally online. Tutor Aid is built to make that entire process smoother, supportive, and human.
+
+The goal is to empower tutors to share knowledge confidently, while helping students receive consistent, meaningful academic support.
 
 #### **Technologies Used:** 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
