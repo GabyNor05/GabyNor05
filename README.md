@@ -39,7 +39,7 @@ My process is rooted in clarity, empathy, and purposeful design.
 
 ## [Disney+ Finder](https://github.com/GabyNor05/Formative-One-Disney_Finder) (Semester 1)
 
-[![Psychedelic Pixels](./assets/pixelsHeader.png)](https://github.com/GabyNor05/Formative-One-Disney_Finder)
+[![Disney+ Finder](./assets/disney+Header.png)](https://github.com/GabyNor05/Formative-One-Disney_Finder)
 
 Psychedelic Pixels is an e-commerce platform dedicated to showcasing and selling unconventional, surreal, and imaginative artwork. The website offers a curated selection of unique paintings, sculptures, and other artistic creations that fall outside the mainstream. Its primary purpose is to give art lovers, collectors, and curious minds a place to discover and purchase "weird art" works that are bold, thought-provoking, and unlike anything found in traditional galleries. By connecting eccentric artists with an audience that appreciates the bizarre and the extraordinary, Psychedelic Pixels celebrates creativity in its most unusual forms.
 
@@ -76,7 +76,7 @@ Psychedelic Pixels is an e-commerce platform dedicated to showcasing and selling
 
 ## [Tutor Aid](https://github.com/GabyNor05/TutorAid) (Semester 2)
 
-[![Tutor Aid](./assets/pixelsHeader.png)](https://github.com/GabyNor05/TutorAid)
+[![Tutor Aid](./assets/tutorAidHeader.png)](https://github.com/GabyNor05/TutorAid)
 
 Psychedelic Pixels is an e-commerce platform dedicated to showcasing and selling unconventional, surreal, and imaginative artwork. The website offers a curated selection of unique paintings, sculptures, and other artistic creations that fall outside the mainstream. Its primary purpose is to give art lovers, collectors, and curious minds a place to discover and purchase "weird art" works that are bold, thought-provoking, and unlike anything found in traditional galleries. By connecting eccentric artists with an audience that appreciates the bizarre and the extraordinary, Psychedelic Pixels celebrates creativity in its most unusual forms.
 
