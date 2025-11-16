@@ -2,44 +2,65 @@
 
 # 👋 Hi, I’m Gaby Norris  
 
----
-
-## Creative Technologies — UX, Interaction Design & Full-Stack Development  
-Open Window Institute, South Africa  
-
-I design and build digital experiences that blend **storytelling, usability, and emotional resonance**.  
-From nature-inspired interfaces to AI-driven tools, my work focuses on clarity, human-centred design, and meaningful interaction.
-
-**Growth, empathy, and creativity** guide every decision — in design, code, and life.
-
----
-
-🌱 **Career Focus**
-
-Frontend Engineering • Full-Stack JavaScript • UX & Interaction Design • App Prototyping • Creative Tech • Research & Critical Theory
-
----
-
 ## 📄 Table of Contents
 
 - [About Me](#about-me)  
-- [Featured Student Projects](#-featured-student-projects)  
+- [Featured Projects](#featured-projects)  
 - [Tech Stack](#-tech-stack)  
 - [GitHub Stats](#-github-stats)  
 - [Languages & Tools](#-languages--tools)  
-- [Achievements](#-achievements)  
-- [Contact](#contact)
+- [Contact](#-contact)
 
 ---
 
-## About Me
+# About me 
 
-A UX & Interactive Development student passionate about building intuitive systems that support learning, creativity, and community.  
-I work across **React**, **Node.js**, **UI/UX**, and **research-based design**, with a love for **nature-inspired visuals**, **storytelling**, and **helping others grow**.
+```jsx
+import { friedChicken as favFood } from "@gaby/likes";
 
-My process is rooted in clarity, empathy, and purposeful design.
+const NAME = "Gaby Norris";
+const STUDENT_NUM = 241143;
+const AGE = 20;
+const NATIONALITY = "South African";
+const DEGREE = "Bachlor of Creative Technology"
+const MODULES = {
+  uxDesign: "Second Year UX",
+  development: "Second Year DV",
+};
 
----
+let hobbies = {
+  writing: ["Adventure", "Romance", "Sci-Fi", "Action"],
+  favoriteSongs: ["50 ft", "STAY OR GO", "Chaos", "Sands", ""],
+  musicals: ["Hairspray", "Chicago", "Grease", "The Sound of Music", "My Fair Lady", "Grease", "Mamma Mia", "Matilda", "Wicked"]
+  watching: ["The Rookie", "Pretty Little Liars", "Mighty Nein", "Chuck", "High Potential", "The Rainmaker"],
+  favouriteMovies: ["Practical Magic", "Mamma Mia", "Aristocats", "Diary of a Mad Black Woman", "The Help", "Anastasia", "Kubo and the Two Strings", "The Prince of Egypt", "Shawn of the Dead"],
+  dnd: ["Dungeon Master", "Player", "Critical Role"],
+  cats: ["Jessie", "Isa", "Bailey"],
+  dogs: ["Sophie", "Lexi", "Lola", "Yankee"]
+};
+
+let dreamJob = ["Frontend Developer", "React Developer"];
+
+function favThings() {
+  return {
+    food: favFood,
+    hobbies,
+    dreamJob,
+  };
+}
+
+let changelog = [
+  "Musicals are the greatest form of entertainment🎭",
+  "Writing grants an escape into new and exciting worlds✒️",
+  "Love a normalised database💻",
+  "Enjoys making stuff functional😁",
+];
+
+```
+
+--- 
+
+# Featured Projects
 
 ## [Disney+ Finder](https://github.com/GabyNor05/Formative-One-Disney_Finder) (Semester 1)
 
@@ -56,7 +77,6 @@ Disney+ Finder is a react app built using Disney Plus Top Movies and TV Shows AP
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-5F33FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabyNor05/Psychpix)
 
-- - - -
 ---
 
 ## [Psychedelic Pixels](https://github.com/GabyNor05/Psychpix) (Semester 1)
@@ -133,7 +153,7 @@ The goal is to empower tutors to share knowledge confidently, while helping stud
 ---
 
 ## 🛠 Languages & Tools  
-JavaScript • React • Node.js • MySQL • Express • HTML • CSS • Chart.js • Figma • Procreate
+JavaScript • React • Node.js • MySQL • Express • HTML • CSS • Chart.js • Figma • Canva • Adobe Express
 
 
 ## 📬 Contact
