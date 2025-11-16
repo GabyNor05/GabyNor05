@@ -61,7 +61,7 @@ Disney+ Finder is a react app built using Disney Plus Top Movies and TV Shows AP
 
 ## [Psychedelic Pixels](https://github.com/GabyNor05/Psychpix) (Semester 1)
 
-[![Psychedelic Pixels](./assets/pixelsHeader.png)](https://github.com/GabyNor05/Psychpix)
+[![Psychedelic Pixels](./assets/psychBanner.png)](https://github.com/GabyNor05/Psychpix)
 
 Psychedelic Pixels is an e-commerce platform dedicated to showcasing and selling unconventional, surreal, and imaginative artwork. The website offers a curated selection of unique paintings, sculptures, and other artistic creations that fall outside the mainstream. Its primary purpose is to give art lovers, collectors, and curious minds a place to discover and purchase "weird art" works that are bold, thought-provoking, and unlike anything found in traditional galleries. By connecting eccentric artists with an audience that appreciates the bizarre and the extraordinary, Psychedelic Pixels celebrates creativity in its most unusual forms.
 
