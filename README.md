@@ -1,164 +1,98 @@
-![Banner](./assets/profileBanner.png)
+<p align="center">
+  <img src="./assets/profileBanner.png" alt="Gaby Norris banner" width="100%" />
+</p>
 
-# 👋 Hi, I’m Gaby Norris  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8250DF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gaby+Norris+%F0%9F%91%8B;Designing+in+Figma.+Building+in+React.;Calm%2C+accessible+apps+that+actually+work;Musicals%2C+D%26D+and+normalised+databases+%F0%9F%8E%AD" alt="Hi, I'm Gaby Norris. Designing in Figma, building in React." />
+</p>
 
-## 📄 Table of Contents
+<p align="center">
+  <b>Frontend and React Native developer · UX/UI designer</b><br/>
+  Third-year Interactive Development and UX Design student · South Africa 🇿🇦
+</p>
 
-- [About Me](#about-me)  
-- [Featured Projects](#featured-projects)  
-- [Tech Stack](#-tech-stack)  
-- [GitHub Stats](#-github-stats)  
-- [Languages & Tools](#-languages--tools)  
-- [Contact](#-contact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabrielle-norris-9a9683229"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.behance.net/gabynorris"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="mailto:gabynorris616@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
-# About me 
+I design and build apps end-to-end: from Figma wireframes and design systems to working React and React Native code. I care about calm, accessible interfaces and making things actually work.
 
-```jsx
-import { friedChicken as favFood } from "@gaby/likes";
+## Featured projects
 
-const NAME = "Gaby Norris";
-const STUDENT_NUM = 241143;
-const AGE = 20;
-const NATIONALITY = "South African";
-const DEGREE = "Bachlor of Creative Technology"
-const MODULES = {
-  uxDesign: "Second Year UX",
-  development: "Second Year DV",
-};
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/GabyNor05/Whelmer"><img src="./assets/whelmerBanner.png" alt="Whelmer" /></a>
+      <h3>Whelmer</h3>
+      <p>AI focus and task companion for ADHD. Milo breaks big tasks into tiny steps; an ambient player keeps you in the zone.</p>
+      <p><code>React Native</code> <code>Expo</code> <code>TypeScript</code> <code>Firebase</code> <code>Groq</code></p>
+      <a href="https://github.com/GabyNor05/Whelmer">Repo</a> · <a href="https://youtube.com/shorts/dbEnwsnVFe0">Demo</a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/GabyNor05/get-up-and-go"><img src="https://github.com/user-attachments/assets/ff59982f-dbfd-4b19-a074-cfe4cd14a8e9" alt="Get Up & Go" /></a>
+      <h3>Get Up &amp; Go</h3>
+      <p>Mobile app and web portal for discovering local events, managing social circles and earning Go-Points.</p>
+      <p><code>React Native</code> <code>React</code> <code>Tailwind</code> <code>Firestore</code></p>
+      <a href="https://github.com/GabyNor05/get-up-and-go">Repo</a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/GabyNor05/SheIsDesign"><img src="https://github.com/user-attachments/assets/22849e46-aaf5-46f7-805b-38831701a09b" alt="SheIsDesign" /></a>
+      <h3>SheIsDesign</h3>
+      <p>Full-stack client platform for female design students: judge scoring, live leaderboard, donations. WCAG AA.</p>
+      <p><code>React</code> <code>.NET</code> <code>PostgreSQL</code> <code>Electron</code></p>
+      <a href="https://github.com/GabyNor05/SheIsDesign">Repo</a> · <a href="https://drive.google.com/file/d/1Vuk0S-6KSA4xeNBTiyUunoKhHjJYpbML/view">Demo</a>
+    </td>
+  </tr>
+</table>
 
-let hobbies = {
-  writing: ["Adventure", "Romance", "Sci-Fi", "Action"],
-  favoriteSongs: ["50 ft", "STAY OR GO", "Chaos", "Sands", ""],
-  musicals: ["Hairspray", "Chicago", "Grease", "The Sound of Music", "My Fair Lady", "Grease", "Mamma Mia", "Matilda", "Wicked"]
-  watching: ["The Rookie", "Pretty Little Liars", "Mighty Nein", "Chuck", "High Potential", "The Rainmaker"],
-  favouriteMovies: ["Practical Magic", "Mamma Mia", "Aristocats", "Diary of a Mad Black Woman", "The Help", "Anastasia", "Kubo and the Two Strings", "The Prince of Egypt", "Shawn of the Dead"],
-  dnd: ["Dungeon Master", "Player", "Critical Role"],
-  cats: ["Jessie", "Isa", "Bailey"],
-  dogs: ["Sophie", "Lexi", "Lola", "Yankee"]
-};
+## Tools I use
 
-let dreamJob = ["Frontend Developer", "React Developer"];
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,express,dotnet,firebase,postgres,mysql,mongodb,figma" alt="Tech stack" />
+</p>
 
-function favThings() {
-  return {
-    food: favFood,
-    hobbies,
-    dreamJob,
-  };
-}
+<details>
+  <summary><b>📁 Earlier work (2025)</b></summary>
+  <br/>
+  <table>
+    <tr>
+      <td width="33%" valign="top">
+        <a href="https://github.com/GabyNor05/Disney_Finder"><img src="./assets/disney+Header.png" alt="Disney+ Finder" /></a>
+        <b>Disney+ Finder</b><br/>
+        <sub>React movie and series finder comparing ratings</sub>
+      </td>
+      <td width="33%" valign="top">
+        <a href="https://github.com/GabyNor05/Psychpix"><img src="./assets/psychBanner.png" alt="Psychedelic Pixels" /></a>
+        <b>Psychedelic Pixels</b><br/>
+        <sub>E-commerce store for surreal artwork</sub>
+      </td>
+      <td width="33%" valign="top">
+        <a href="https://github.com/GabyNorris/TutorAid"><img src="./assets/tutorAidHeader.png" alt="Tutor Aid" /></a>
+        <b>Tutor Aid</b><br/>
+        <sub>Connects students with tutors for bookings</sub>
+      </td>
+    </tr>
+  </table>
+  <sub>Full write-ups in <a href="https://github.com/GabyNor05/second-year-projects-2025">second-year-projects-2025</a></sub>
+</details>
 
-let changelog = [
-  "Musicals are the greatest form of entertainment🎭",
-  "Writing grants an escape into new and exciting worlds✒️",
-  "Love a normalised database💻",
-  "Enjoys making stuff functional😁",
-];
-
-```
+<details>
+  <summary><b>✨ More about me</b></summary>
+  <br/>
+  <p>🎭 Musicals are the greatest form of entertainment (Hairspray, Wicked, Matilda, Mamma Mia)<br/>
+  ✒️ I write adventure, romance and sci-fi<br/>
+  🎲 Dungeon Master and player, Critical Role fan<br/>
+  🐾 Three cats and four dogs</p>
+</details>
 
 --- 
-
-# Featured Projects
-
-## [Disney+ Finder](https://github.com/GabyNor05/Formative-One-Disney_Finder) (Semester 1)
-
-[![Disney+ Finder](./assets/disney+Header.png)](https://github.com/GabyNor05/Formative-One-Disney_Finder)
-
-Disney+ Finder is a react app built using Disney Plus Top Movies and TV Shows API, which is an API that provides instant access to a curated list of metadata from a selection of popular titles from Disney+. Making it easier to find the best possible TV Shows and Movies.
-
-#### **Technologies Used:** 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-5F33FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabyNor05/Psychpix)
-
----
-
-## [Psychedelic Pixels](https://github.com/GabyNor05/Psychpix) (Semester 1)
-
-[![Psychedelic Pixels](./assets/psychBanner.png)](https://github.com/GabyNor05/Psychpix)
-
-Psychedelic Pixels is an e-commerce platform dedicated to showcasing and selling unconventional, surreal, and imaginative artwork. The website offers a curated selection of unique paintings, sculptures, and other artistic creations that fall outside the mainstream. Its primary purpose is to give art lovers, collectors, and curious minds a place to discover and purchase "weird art" works that are bold, thought-provoking, and unlike anything found in traditional galleries. By connecting eccentric artists with an audience that appreciates the bizarre and the extraordinary, Psychedelic Pixels celebrates creativity in its most unusual forms.
-
-#### **Technologies Used:** 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-5F33FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabyNor05/Psychpix)
-
----
-
-## [Tutor Aid](https://github.com/GabyNor05/TutorAid) (Semester 2)
-
-[![Tutor Aid](./assets/tutorAidHeader.png)](https://github.com/GabyNor05/TutorAid)
-
-Tutor Aid is a platform designed to connect students with reliable and relatable tutors who understand their learning journey. The platform focuses on simplicity, trust, and efficiency, allowing students to easily find support, book sessions, and grow academically.
-
-As a tutor myself, I saw how difficult it can be to manage timetables, communicate with students, and present yourself professionally online. Tutor Aid is built to make that entire process smoother, supportive, and human.
-
-The goal is to empower tutors to share knowledge confidently, while helping students receive consistent, meaningful academic support.
-
-#### **Technologies Used:** 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-5F33FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabyNor05/Psychpix)
-
----
-
-## 🛠 Tech Stack
-
-### Frontend  
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)]
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)](https://tailwindcss.com/)
-[![React-Bootstarp](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://react-bootstrap.netlify.app/)
-
-### Backend  
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Database  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-[![MongoDb](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-
-### APIs & Data  
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-
-### UX & Design  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
----
 
 ## 📈 GitHub Stats  
 ![Gaby's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabyNor05&show_icons=true&theme=rose_pine)
 
----
 
-## 🛠 Languages & Tools  
-JavaScript • React • Node.js • MySQL • Express • HTML • CSS • Chart.js • Figma • Canva • Adobe Express
-
-
-## 📬 Contact
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:241143@virtualwindow.co.za)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielle-norris-9a9683229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
