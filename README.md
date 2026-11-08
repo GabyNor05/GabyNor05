@@ -26,7 +26,9 @@ I design and build apps end-to-end: from Figma wireframes and design systems to 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://github.com/GabyNor05/Whelmer"><img src="./assets/whelmerBanner.png" alt="Whelmer" /></a>
+      <a href="https://github.com/GabyNor05/Whelmer">
+        <img  src="https://github.com/user-attachments/assets/7a61ce3e-8f1d-43db-89b2-f157cdaec163" />
+</a>
       <h3>Whelmer</h3>
       <p>AI focus and task companion for ADHD. Milo breaks big tasks into tiny steps; an ambient player keeps you in the zone.</p>
       <p><code>React Native</code> <code>Expo</code> <code>TypeScript</code> <code>Firebase</code> <code>Groq</code></p>
@@ -40,7 +42,8 @@ I design and build apps end-to-end: from Figma wireframes and design systems to 
       <a href="https://github.com/GabyNor05/get-up-and-go">Repo</a>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/GabyNor05/SheIsDesign"><img src="https://github.com/user-attachments/assets/22849e46-aaf5-46f7-805b-38831701a09b" alt="SheIsDesign" /></a>
+      <a href="https://github.com/GabyNor05/SheIsDesign"><img src="https://github.com/user-attachments/assets/45ccd01b-bf40-4053-923c-dad25770f710" />
+</a>
       <h3>SheIsDesign</h3>
       <p>Full-stack client platform for female design students: judge scoring, live leaderboard, donations. WCAG AA.</p>
       <p><code>React</code> <code>.NET</code> <code>PostgreSQL</code> <code>Electron</code></p>
@@ -92,7 +95,6 @@ I design and build apps end-to-end: from Figma wireframes and design systems to 
 --- 
 
 ## 📈 GitHub Stats  
-![Gaby's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabyNor05&show_icons=true&theme=rose_pine)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=GabyNor05&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=GabyNor05&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=midnight-purple)
 
 
