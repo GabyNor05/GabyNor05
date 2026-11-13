@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profileBanner.png" alt="Gaby Norris banner" width="100%" />
+<img width="1980" height="550" alt="Profile Banner" src="https://github.com/user-attachments/assets/6c794f29-9e10-4cc3-991a-83935b0ed3ec" />
 </p>
 
 <p align="center">
